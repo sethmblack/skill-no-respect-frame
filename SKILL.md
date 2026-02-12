@@ -1,11 +1,10 @@
 ---
 name: no-respect-frame
-description: Transform any topic into self-deprecating comedy by applying Rodney Dangerfield's
-  "I don't get no respect" lens, positioning the speaker as perpetual victim/loser.
+description: Transform any topic into self-deprecating comedy by applying Rodney Dangerfield's "I don't get no respect" lens, positioning the speaker as perpetual victim/loser.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - absurdist
 - comedy
